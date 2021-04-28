@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  serviceRootUrl: 'http://localhost:8080'
+  serviceRootUrl: 'https://duy-register-api.herokuapp.com'
 };
